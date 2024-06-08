@@ -1,6 +1,6 @@
 name = "Glowing Ores"
 filename = "glore-1.20.x-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bqmWbUVO/versions/6cO4kGO3/glore-1.20.x-1.2.0.jar"
