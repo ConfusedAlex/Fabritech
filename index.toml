@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cb867fcd81c6f8dcede0bdfd8457ab7e00c0419c1e86ece5d1c214dd11bee6f7"
+hash = "cb85ca1dee6d0aa1d99f61d4f22f1b35dc4f4e5154ac4e38bfc99dcc8790b9f1"
 
 [[files]]
 file = "config/paxi/resourcepacks/toms-create-storage.pw.toml"
@@ -66,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "7b0082978ca0f2fcdaa8192a5f51d0778df1f36d33341176f91b869eebb9c293"
 metafile = true
 
 [[files]]
@@ -419,11 +429,6 @@ hash = "d974525d8d9c00ec85ceb7bb1da54139d003178a4c3e96c363cd87cad36ac727"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles.pw.toml"
-hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
 metafile = true
@@ -507,7 +512,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
-
-[[files]]
-file = "tmplist.txt"
-hash = "6be0951193c706b237d2bea35f8c26c97a08cc0b55a18c213327e43701b66a68"
