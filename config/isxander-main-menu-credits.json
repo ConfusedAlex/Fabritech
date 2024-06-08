@@ -1,0 +1,37 @@
+{
+  "main_menu": {
+    "top_left": [
+    
+    ],
+    "top_right": [
+    
+    ],
+    "bottom_left": [
+      "Fabritech 1.0",
+      "Made with <3 by Alex"
+    ],
+    "bottom_right": [
+    
+    ],
+    "mod_blacklist": [
+
+    ]
+  },
+  "pause_menu": {
+    "top_left": [
+    
+    ],
+    "top_right": [
+    
+    ],
+    "bottom_left": [
+    
+    ],
+    "bottom_right": [
+    
+    ],
+    "mod_blacklist": [
+
+    ]
+  }
+}
