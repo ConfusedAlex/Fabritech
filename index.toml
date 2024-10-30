@@ -259,16 +259,6 @@ hash = "2e46dee361247570c3dff70d7bcea82b13e274e6fe96ddcb9c8a48de07a7050b"
 metafile = true
 
 [[files]]
-file = "mods/gravestones-fix.pw.toml"
-hash = "4b350db5e3d33d62b190090a8f804f025b8792bc06467aaefa08c393d841287c"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
@@ -506,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "c08821ad183bad587e1b93cc72c611157d28f052ec020c64c518649e1c4f3367"
 metafile = true
 
 [[files]]
