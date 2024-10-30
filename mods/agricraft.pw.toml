@@ -1,0 +1,13 @@
+name = "AgriCraft"
+filename = "AgriCraft-fabric-1.20.1-4.0.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cMppH5SJ/versions/QmcCSZey/AgriCraft-fabric-1.20.1-4.0.2-beta.jar"
+hash-format = "sha1"
+hash = "5afa4cce132bbfd20d54553f68a921b08059eafc"
+
+[update]
+[update.modrinth]
+mod-id = "cMppH5SJ"
+version = "QmcCSZey"

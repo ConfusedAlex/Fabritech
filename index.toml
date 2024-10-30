@@ -29,6 +29,11 @@ hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
 
 [[files]]
+file = "mods/agricraft.pw.toml"
+hash = "59548997018fb6abea2b7199d75b14c400c7191445f16c6d3f5def8ddc021953"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
