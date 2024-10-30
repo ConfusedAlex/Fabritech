@@ -254,6 +254,16 @@ hash = "2e46dee361247570c3dff70d7bcea82b13e274e6fe96ddcb9c8a48de07a7050b"
 metafile = true
 
 [[files]]
+file = "mods/gravestones-fix.pw.toml"
+hash = "4b350db5e3d33d62b190090a8f804f025b8792bc06467aaefa08c393d841287c"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
@@ -306,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
 metafile = true
 
 [[files]]
@@ -391,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5dbd17b4eb5a496d819cc5d02c683733735bbdc30cd3cc79d3ad1873a9ec67e4"
 metafile = true
 
 [[files]]
