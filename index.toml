@@ -44,6 +44,11 @@ hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "84da114b518ecda7ed4fe0160a7986c2446e55820675016e3630ad87177dc55f"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "0aaa2baf7599cb983776a86f1ca5ba002589331bd765ae759f5de214f884a758"
 metafile = true
@@ -426,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
 metafile = true
 
 [[files]]
