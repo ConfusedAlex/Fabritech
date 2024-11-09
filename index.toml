@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cb85ca1dee6d0aa1d99f61d4f22f1b35dc4f4e5154ac4e38bfc99dcc8790b9f1"
+hash = "d87c595dc7e1def0d047499223a3a1eb8f65a498ca857129925404f329cf1a37"
 
 [[files]]
 file = "config/paxi/resourcepacks/dramatic-skys.pw.toml"
@@ -141,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
 
 [[files]]
