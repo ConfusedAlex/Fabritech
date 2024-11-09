@@ -109,6 +109,11 @@ hash = "bf9a869e30efcecfc9c1e548ea48054a15271d57aa7448346b8e6342d6a37baa"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits-for-fabric.pw.toml"
+hash = "3dd5b0e8ffa23ab45130e40692723ad8dca91a99a114cf95d87bc5be1ab977cb"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -201,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "0bfa93d487f91b526d83622245091b3fec1d27c1b5b241b75bb26ea8e04806a8"
+metafile = true
+
+[[files]]
+file = "mods/dusty-decorations.pw.toml"
+hash = "1959a6885cd446533fc4801fd009e6a7b9216075d9cbcfb9a74019ca2f5c22b2"
 metafile = true
 
 [[files]]
