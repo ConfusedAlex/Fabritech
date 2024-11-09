@@ -1,12 +1,12 @@
 name = "Fabritech"
 author = "confusedalex"
-version = "1.7.0"
+version = "1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b111ed602f69754d3b36c25fb1b582c7d59d62dfe10e4688aa43ec427ab64f2"
+hash = "3f86ff2f8d0407686a70d7139f8edcbe9d5e638b788892abeae936375183f173"
 
 [versions]
 fabric = "0.15.11"
